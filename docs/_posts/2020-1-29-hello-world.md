@@ -1,5 +1,5 @@
 ---
-title: Hello, World
+title: Hello, Word
 date: 2020-1-29
 tags:
 - theme
